@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # blind_assistance
 
 A new Flutter project.
@@ -14,3 +16,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+
+# BlindAssistanceApp
+
+An android app for the blind.
+
+> > > > > > >
+
+This app helps visually impaired users by recognizing objects, people, and text using a smartphone camera.
