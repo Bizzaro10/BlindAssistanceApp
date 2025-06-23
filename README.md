@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # blind_assistance
 
